@@ -23,7 +23,7 @@ This will install all the dependencies and run the application in your browser a
 
 Your goal is to build this app from scratch:
 
-![demo](demo.png)
+![demo](https://raw.githubusercontent.com/learn-co-curriculum/react-hooks-state-events-pairing/master/demo.png)
 
 The application has the following features:
 
