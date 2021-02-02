@@ -33,6 +33,10 @@ The application has the following features:
   should increase
 - When a user clicks on the "👎" button, the number of downvotes for the video
   should increase
+- When the user clicks the "Hide Comments" button, the comments should be
+  removed from the page, and the button text should change to "Show Comments".
+  When the button is clicked again, it should toggle back to showing the
+  comments.
 
 The data you'll need for the app can be found in the `video.js` file.
 
