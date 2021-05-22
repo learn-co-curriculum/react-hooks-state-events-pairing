@@ -2,7 +2,8 @@
 
 ## Learning Goals
 
-- Train yourself to [Think in React](https://reactjs.org/docs/thinking-in-react.html)
+- Train yourself to
+  [Think in React](https://reactjs.org/docs/thinking-in-react.html)
 - Design components based on a mockup
 - Pass down data to components via props
 - Handle user interaction via events
@@ -17,13 +18,14 @@ npm install
 npm start
 ```
 
-This will install all the dependencies and run the application in your browser at [http://localhost:3000](http://localhost:3000).
+This will install all the dependencies and run the application in your browser
+at [http://localhost:3000](http://localhost:3000).
 
 ## Deliverables
 
 Your goal is to build this app from scratch:
 
-![demo](https://raw.githubusercontent.com/learn-co-curriculum/react-hooks-state-events-pairing/master/demo.png)
+![demo](https://curriculum-content.s3.amazonaws.com/phase-2/react-hooks-state-events-pairing/demo.png)
 
 The application has the following features:
 
