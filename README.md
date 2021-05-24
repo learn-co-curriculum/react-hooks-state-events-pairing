@@ -1,4 +1,4 @@
-# React State and Events Pairing
+# ReactTube
 
 ## Learning Goals
 
@@ -20,6 +20,9 @@ npm start
 
 This will install all the dependencies and run the application in your browser
 at [http://localhost:3000](http://localhost:3000).
+
+There are no tests for this lab, so you'll need to check your work by running
+your application in the browser and trying to match the demo below.
 
 ## Deliverables
 
@@ -58,7 +61,8 @@ Good luck!
 
 ## Bonus
 
-If you finish early and want to get more practice with state and events, here are some ideas for additional features:
+If you finish early and want to get more practice with state and events, here
+are some ideas for additional features:
 
 - Add upvote/downvote buttons to each comment
 - Add a search bar to search comments by username
