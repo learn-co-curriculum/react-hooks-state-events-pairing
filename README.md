@@ -43,7 +43,7 @@ The application has the following features:
   When the button is clicked again, it should toggle back to showing the
   comments.
 
-The data you'll need for the app can be found in the `video.js` file.
+The data you'll need for the app can be found in the `data/video.js` file.
 
 Start by planning out what components you'll need and draw out your component
 hierarchy. Then, build out your components and pass down any data they need via
