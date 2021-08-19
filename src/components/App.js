@@ -9,8 +9,8 @@ function App() {
         width="919"
         height="525"
         src="https://www.youtube.com/embed/dQw4w9WgXcQ"
-        frameborder="0"
-        allowfullscreen
+        frameBorder="0"
+        allowFullScreen
         title="Thinking in React"
       />
     </div>
