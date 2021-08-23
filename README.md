@@ -13,9 +13,9 @@
 
 Fork and clone this lab. Then, `cd` into the lab directory and run:
 
-```sh
-npm install
-npm start
+```console
+$ npm install
+$ npm start
 ```
 
 This will install all the dependencies and run the application in your browser
