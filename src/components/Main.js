@@ -1,8 +1,7 @@
-import video from "/home/dbencze/react-hooks-state-events-pairing/src/data/video.js";
+import video from "../data/video";
+import Comment from "./Comment";
 
 function Main() {
-  
-  
   
   
     return (
@@ -15,12 +14,7 @@ function Main() {
       <button>{video.downvotes} 👎</button>
       <br></br>
       <br></br>
-      <button>Hide Comments</button>
-      <h2>2 Comments</h2>
-      <h3>{video.comments[0].user}</h3>
-      <p>{video.comments[0].comment}</p>
-      <h3>{video.comments[1].user}</h3>
-      <p>{video.comments[1].comment}</p>
+      <Comment />
     </div>
   );
 }
